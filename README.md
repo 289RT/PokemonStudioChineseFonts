@@ -15,8 +15,8 @@
 
 ## 如何使用 | Usage
 1. **下载字体 | Download**:  
-   直接从 [`ChineseFonts` 文件夹](/ChineseFonts/) 获取字体文件。  
-   *Download font files directly from the [`ChineseFonts` folder](/ChineseFonts/).*
+   直接从 [`Chinese_Fonts` 文件夹](/Chinese_Fonts/) 获取字体文件。  
+   *Download font files directly from the [`Chinese_Fonts` folder](/Chinese_Fonts/).*
 
 2. **应用替换 | Installation**:  
    - 替换游戏目录下 `Fonts` 文件夹中的默认字体。  
